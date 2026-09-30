@@ -64,6 +64,17 @@ The artifacts emphasize explicit assumptions, traceability, analytical controls,
 
 ---
 
+
+### [Aviation Underwriting Portfolio](https://github.com/JJennings728/ZipSmart360/tree/main/aviation-underwriting)
+
+**Synthetic aviation hull-and-liability underwriting case study focused on fleet exposure, premium structure, capacity, subjectivities, submission gaps, and risk decision support.**
+
+Includes a dedicated visual system, LinkedIn media plan, documented asset assignments, and explicit separation between synthetic portfolio modeling and actual carrier authority.
+
+`Aviation Risk` · `Underwriting` · `Exposure Modeling` · `Pricing` · `Capacity` · `Decision Support`
+
+---
+
 ### [Data Architecture Project](https://github.com/JJennings728/data-architecture-project)
 
 **Reference architecture for governed analytical pipelines and AI-ready information systems.**
