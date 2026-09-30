@@ -22,6 +22,15 @@ Demonstrates data validation, relational modeling, parameterized querying, repea
 
 ---
 
+### [E&S Commercial Property — SQL + Power BI](https://github.com/JJennings728/ZipSmart360/tree/main/powerbi-underwriting)
+
+**Underwriting decision-support portfolio built around synthetic commercial-property submissions, SQL transformations, DAX measures, exposure concentration, CAT/loss screening, and Quote / Refer / Decline workflow analytics.**
+
+Includes a Power BI-ready dataset, data dictionary, underwriting KPI library, three-page dashboard build specification, and portfolio previews with explicit assumptions and human-review triggers.
+
+`E&S Property` · `SQL` · `Power BI` · `DAX` · `Underwriting Analytics` · `CAT Exposure`
+
+---
 ### [Insurance AI Workflow Design](https://github.com/JJennings728/ZipSmart360/blob/main/INSURANCE_ANALYTICS_PORTFOLIO.md)
 
 **Workflow specifications, synthetic scenario design, and evaluation criteria for insurance AI.**
@@ -76,7 +85,7 @@ Across projects, I focus on four engineering principles:
 
 ## Technical focus
 
-**Languages & data:** Python · SQL · SQLite · CSV/JSON · Excel modeling  
+**Languages & data:** Python · SQL · SQLite · CSV/JSON · Excel modeling · Power BI / DAX  
 **Engineering:** APIs · validation · automated testing · data modeling · documentation  
 **Applied AI:** agent workflows · prompt architecture · evaluations · structured decision support  
 **Domain:** insurance · underwriting · claims · reinsurance · CAT exposure · risk management
