@@ -26,7 +26,7 @@ Demonstrates data validation, relational modeling, parameterized querying, repea
 
 **Underwriting decision-support portfolio built around synthetic commercial-property submissions, SQL transformations, DAX measures, exposure concentration, CAT/loss screening, and Quote / Refer / Decline workflow analytics.**
 
-Includes a Power BI-ready dataset, data dictionary, underwriting KPI library, three-page dashboard build specification, and portfolio previews with explicit assumptions and human-review triggers.
+Includes a source-controlled Power BI Project (PBIP), TMDL semantic model, DAX underwriting KPI library, SQL transformations, three report pages with 16 PBIR visual definitions, a data dictionary, and portfolio previews with explicit assumptions and human-review triggers.
 
 `E&S Property` · `SQL` · `Power BI` · `DAX` · `Underwriting Analytics` · `CAT Exposure`
 
